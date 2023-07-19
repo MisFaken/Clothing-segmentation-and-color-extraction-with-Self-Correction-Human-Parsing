@@ -58,10 +58,7 @@ This repo is a fork of Self-Correction for Human Parsing.
   doi={10.1109/TPAMI.2020.3048039}}
 ```
 
-## Visualization
 
-* Source Image.
-![sample](./test_images/sample.jpg)
 
 
 

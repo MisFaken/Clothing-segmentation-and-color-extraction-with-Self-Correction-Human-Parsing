@@ -1,5 +1,7 @@
 # Clothing color extraction with Self Correction Human Parsing
 
+![sample](./test_images/sample.jpg)
+
 ![visualization](./demo/clothing.png) 
 
 This repo consists of a notebook(demo.ipynb) added to the Self Correction Human Parsing(SCHP) to showcase the use of this model to extract color information from articles of clothing on a person.
@@ -59,7 +61,7 @@ This repo is a fork of Self-Correction for Human Parsing.
 ## Visualization
 
 * Source Image.
-![demo](./demo/demo.jpg)
+![sample](./test_images/sample.jpg)
 
 
 

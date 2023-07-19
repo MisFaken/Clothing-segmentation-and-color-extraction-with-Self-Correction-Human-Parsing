@@ -1,0 +1,9 @@
+class_name,r,g,b
+bg,0,0,255
+skin,255,255,0
+hair,0,255,0
+accessories,255,0,255
+upper_body,255,0,0
+lower_body,0,255,255
+footwear,255,128,0
+coat,128,128,128
